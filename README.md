@@ -1,6 +1,6 @@
-# glassmorphism
+# Travel App UI
 
-A new Flutter project.
+User Interface for Travel app.
 
 ## Getting Started
 
